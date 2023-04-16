@@ -15,7 +15,10 @@
 
 /* STUDIO */
 body {
-  font-family: 'Roboto', 'Raleway', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  background-color: var(--white);
+  color: var(--slate);
 }
 .list {
   list-style: none;
