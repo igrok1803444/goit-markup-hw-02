@@ -223,7 +223,7 @@ body {
   border-radius: 4px;
 }
 .category-btn:hover,
-.category-btn:active {
+.category-btn:focus {
   color: var(--white);
   background-color: var(--ocean);
 }
