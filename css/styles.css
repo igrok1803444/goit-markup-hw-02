@@ -39,13 +39,13 @@ body {
   font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
   font-weight: 800;
-  color: var(--navy-blue);
+  color: var(--iris);
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
 }
 .color-logo {
-  color: var(--iris);
+  color: var(--navy-blue);
 }
 .nav-list {
 }
@@ -161,23 +161,22 @@ body {
 .team-list {
 }
 .team-list-item {
-}
-.team-card {
   background-color: var(--white);
 }
+
 .employee-photo {
 }
 .employee-name {
   font-weight: 500;
-  font-size: 24px;
-  line-height: 120%;
+  font-size: 20px;
+  line-height: 1.2;
   text-align: center;
   letter-spacing: 0.02em;
   color: var(--navy-blue);
 }
 .employee-proffesion {
   font-size: 16px;
-  line-height: 150%;
+  line-height: 1.5;
   text-align: center;
   letter-spacing: 0.02em;
   color: var(--slate);
@@ -201,7 +200,7 @@ body {
 
 .footer-desc {
   font-size: 16px;
-  line-height: 150%;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--cloud);
 }
