@@ -222,15 +222,19 @@ body {
   border: 1px solid --cornflower;
   border-radius: 4px;
 }
+.category-btn:hover,
+.category-btn:active {
+  color: var(--white);
+  background-color: var(--ocean);
+}
 /* .examples  */
 .example-list {
 }
 .example-list-item {
-}
-.example {
   background-color: var(--white);
   border: 1px solid var(--cornflower);
 }
+
 .example-link {
 }
 .example-photo {
