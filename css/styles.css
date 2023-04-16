@@ -36,6 +36,7 @@ body {
   background-color: var(--white);
 }
 .logo-link {
+  font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
   font-weight: 800;
   color: var(--navy-blue);
@@ -62,6 +63,9 @@ body {
   color: var(--ocean);
 }
 /* address */
+.adress-section {
+  font-style: normal;
+}
 .adress-list {
 }
 .adress-list-item {
@@ -183,13 +187,13 @@ body {
   background-color: var(--navy-blue);
 }
 .footer-color-logo {
-  color: var(--iris);
+  color: var(--cloud);
 }
 .footer-logo-link {
   font-family: 'Raleway';
   text-transform: uppercase;
   font-weight: 800;
-  color: var(--cloud);
+  color: var(--iris);
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
