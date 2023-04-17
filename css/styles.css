@@ -232,7 +232,6 @@ body {
 }
 .example-list-item {
   background-color: var(--white);
-  border: 1px solid var(--cornflower);
 }
 
 .example-link {
